@@ -20,6 +20,5 @@ int main()
     std::cout << "my " << a << " favourite number is \n";
     std::cout << a << std::endl
               << b << std::endl;
-
     return 0;
 }

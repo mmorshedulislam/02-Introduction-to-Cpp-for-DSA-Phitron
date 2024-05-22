@@ -13,7 +13,7 @@ int main()
     
     // fgets(s, 100, stdin); // in C
     // cin >> s; // in C++
-    getchar(); // for control space 
+    getchar(); // for control space enter
     cin.getline(s, 100); // in C++
     cout << n << endl;
     cout << s << endl;

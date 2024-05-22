@@ -13,7 +13,7 @@ int main()
     // }
 
     // in C++
-    while (cin >> a >> b) // not nessacary EOF in C++
+    while (cin >> a >> b) // not necessary EOF in C++
     {
         cout << a << " " << b << endl;
     }
