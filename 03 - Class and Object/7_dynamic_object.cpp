@@ -19,8 +19,10 @@ int main()
 {
     Student rahim(101, 9, 4.78); // static object
     Student *karim = new Student(103, 10, 3.33);
+    
     // rahim
     cout << rahim.roll << " " << rahim.cls << " " << rahim.gpa << endl;
+
     // karim
     cout << karim->roll << " " << karim->cls << " " << karim->gpa << endl;
 

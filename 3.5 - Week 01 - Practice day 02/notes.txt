@@ -8,4 +8,4 @@ Introduction to C++ for DSA
 আজকের প্র্যাক্টিস মডিউলেও একটা প্র্যাক্টিস প্রবলেম সেট দেওয়া হয়েছে। অবশ্যই প্রথমে চেষ্টা করবে নিজে নিজে সলভ করার। কোথাও না বুঝলে সেটা বুঝে নেওয়ার জন্য সাপোর্ট সেশন তো আছেই। আর উইকলি কন্সেপ্টচুয়াল সেশন গুলোও দেখে ফেল
 
 
-Practice Proble Set: https://docs.google.com/document/d/1JoN8mO4I8cLQLQpo-l-4kYcxRqAaTjkT/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=true
+Practice Proble Set: https://docs.google.com/document/d/1JoN8mO4I8cLQLQpo-l-4kYcxRqAaTjkT/edit?usp=sharing&ouid=112433310488936743525&rtpof=true&sd=truemath_marks 
