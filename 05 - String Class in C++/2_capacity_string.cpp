@@ -21,7 +21,7 @@ int main()
     // cout << c << endl; // ""
     // cout << c.size() << endl; // 0
     
-    // if (c.empty() == true) cout << "Empty" <<endl; // Empty
+    // if (c.empty() == true) cout << "Empty" << endl; // Empty
     // else cout << "Not Empty" << endl; // Not Empty
 
     string r;

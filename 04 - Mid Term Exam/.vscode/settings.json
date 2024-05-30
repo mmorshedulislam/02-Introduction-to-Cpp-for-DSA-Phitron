@@ -3,6 +3,9 @@
     "*.embeddedhtml": "html",
     "*.c": "c",
     "xutility": "cpp",
-    "xlocale": "cpp"
+    "xlocale": "cpp",
+    "xstring": "cpp",
+    "istream": "cpp",
+    "string": "cpp"
   }
 }
