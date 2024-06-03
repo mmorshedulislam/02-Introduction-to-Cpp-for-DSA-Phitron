@@ -13,7 +13,7 @@ public:
     }
     void print()
     {
-        cout << name << " " << age << endl;
+        cout << this->name << " " << this->age << endl;
     };
 };
 

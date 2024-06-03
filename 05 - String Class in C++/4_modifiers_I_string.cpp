@@ -6,7 +6,7 @@ int main()
     string a = "Hello";
     string b = "World";
     // a = a + b;
-    // a+=b;
+    // a += b;
     a.append(b);
     cout << a << endl; // HelloWorld
     cout << b << endl; // World

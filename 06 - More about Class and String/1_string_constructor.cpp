@@ -11,7 +11,7 @@ int main()
     // using constructor with limit
     // string s("Hello, world", 4); // Hell
 
-    // using constructor with limit and offset
+    // using constructor with limit and skip
     // string a = "Hello, world";
     // string s(a, 4); // o, world
 

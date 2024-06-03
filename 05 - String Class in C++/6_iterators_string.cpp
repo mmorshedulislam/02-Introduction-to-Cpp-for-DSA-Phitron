@@ -4,11 +4,12 @@ using namespace std;
 int main()
 {
     string s;
-    cin >> s;
+    cin >> s; // Hello
 
     // for (int i = 0; i <s.size(); i++) {
     //     cout << s[i] << endl;
     // }
+    
     cout << *s.begin() << endl;     // H
     cout << *s.end() << endl;       // null
     cout << *(s.end() - 1) << endl; // o

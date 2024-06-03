@@ -9,6 +9,8 @@ void fun(string &s)
 int main()
 {
     string s = "Hello";
+    cout << s << endl; // Hello
+
     fun(s);
     cout << s << endl; // World
 

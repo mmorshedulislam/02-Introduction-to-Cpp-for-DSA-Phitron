@@ -6,7 +6,7 @@ void print(stringstream &ss) // always "&" use korte hoi stringstream er sate
     string word;
     if (ss >> word)
     {
-        print(ss);
+        print(ss); // call recursion func
         cout << word << endl;
         // Morshed
         // am
